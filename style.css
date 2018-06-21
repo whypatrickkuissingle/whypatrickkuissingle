@@ -8,18 +8,21 @@ h1 {
 
 h2 {
 	color: red;
-	background: yellow ;
+	background: yellow;
+	font-family: Comic Sans MS;
 }
 
 h3 {
 	color: black;
 	background: white;
+	font-family: Comic Sans MS;
 }
 	
 body {
 	background: black;
 	background-repeat: no-repeat;
 	background-size: cover;
+	font-family: Comic Sans MS;
 }
 
 img {
