@@ -1,15 +1,14 @@
 h1 {
-	color: orange;
-	background: blue;
+	color: black;
+	background: black;
 	text-align: center;
-	font-family: Lucida Console;
-	border: 5px solid orange;
+	font-family: Comic Sans MS;
+	border: 5px solid red;
 }
 
 h2 {
-	color: white;
-	/*light blue*/
-	background: #3498DB;
+	color: red;
+	background: yellow ;
 }
 
 h3 {
@@ -21,10 +20,6 @@ body {
 	background: black;
 	background-repeat: no-repeat;
 	background-size: cover;
-}
-
-p {
-	background: white;
 }
 
 img {
