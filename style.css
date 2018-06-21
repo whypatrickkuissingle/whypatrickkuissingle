@@ -19,9 +19,10 @@ h3 {
 }
 	
 body {
-	background: black;
-	background-repeat: no-repeat;
-	background-size: cover;
+	background-color: black;
+	background-image: url("http://gifimage.net/wp-content/uploads/2017/07/gaming-gif-3.gif;");
+	/*background-repeat: no-repeat;*/
+	/*background-size: cover;*/
 	font-family: Comic Sans MS;
 }
 
