@@ -9,13 +9,12 @@ h1 {
 h2 {
 	color: red;
 	background: yellow;
-	font-family: Comic Sans MS;
-}
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
 
 h3 {
 	color: black;
 	background: white;
-	font-family: Comic Sans MS;
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
 	
 body {
@@ -23,7 +22,7 @@ body {
 	background-image: url("https://i.ibb.co/vc99Bgq/Screenshot-20200407-123354.png");
 	/*background-repeat: no-repeat;*/
 	/*background-size: cover;*/
-	font-family: Comic Sans MS;
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
 
 img {
