@@ -2,20 +2,21 @@ h1 {
 	color: white;
 	background: black;
 	text-align: center;
-	font-family: "Comic Sans MS", "Comic Sans", cursive;
+	font-family: "Comic Sans MS", "Comic Sans";
 	border: 5px solid red;
 }
 
 h2 {
 	color: red;
 	background: yellow;
-	font-family: "Comic Sans MS", "Comic Sans", cursive;
+	font-family: "Comic Sans MS", "Comic Sans";
 }
 
 h3 {
 	color: black;
 	background: white;
-	font-family: "Comic Sans MS", "Comic Sans", cursive;
+	font-family: "Comic Sans MS", "Comic Sans";
+	text-align: left;
 }
 	
 body {
@@ -23,7 +24,7 @@ body {
 	background-image: url("https://i.ibb.co/vc99Bgq/Screenshot-20200407-123354.png");
 	/*background-repeat: no-repeat;*/
 	/*background-size: cover;*/
-	font-family: "Comic Sans MS", "Comic Sans", cursive;
+	font-family: "Comic Sans MS", "Comic Sans";
 }
 
 img {
