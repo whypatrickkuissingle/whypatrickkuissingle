@@ -10,6 +10,7 @@ h2 {
 	color: red;
 	background: yellow;
 	font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
 
 h3 {
 	color: black;
@@ -29,5 +30,4 @@ img {
 	transform: rotate(10deg);
 	max-width: 200px;
 	max-height: 200px;
-	background: white
 }
